@@ -1,4 +1,4 @@
 *.un~
 **/*.un~
-/target/
+**/target/
 **/*.rs.bk
