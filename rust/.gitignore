@@ -1,6 +1,7 @@
 *.un~
 **/*.un~
 **/target/
+**/Cargo.lock
 **/*.rs.bk
 *.swp
 **/*.swp
